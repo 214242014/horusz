@@ -1,0 +1,45 @@
+header {background-image: linear-gradient(to right,aqua,transparent);width:100%;position: fixed;z-index: 999;display: flex;justify-content: space-between}
+.logo {font-family: cursive,Verdana, Geneva, Tahoma, sans-serif;text-decoration: none;color: mediumorchid;text-transform: uppercase; font-weight: 1500px;font-size: 3em;padding: 20px}
+.navigation a{color:red;font-family: cursive,Verdana, Geneva, Tahoma, sans-serif ;text-decoration: none;font-size: 3em;font-weight: 1000px;padding-right: 30px}
+.navigation a:hover{color: #601;}
+section {padding: 100px 50px;}
+.min {width: 100%;min-height: 100vh;display: flex;align-items: center;background: url("تصوير-العقارات-7.webp")
+no-repeat;background-size: cover;background-position: center;background-attachment: fixed;}
+.min h1{color: violet ;font-size: 3em;font-weight: 800;}
+.min h1 h2{color: lawngreen ;font-size:150px;max-width:800px;display: inline-block;margin-top: 10px;white-space: normal;}
+ h2 {color: brown;font-size: 4em;font-weight: 900;letter-spacing: 1px;margin-top: 10px;margin-bottom: 30px;white-space: normal}
+.main-btn {color: #FFF;background-color:darkorange;text-decoration: none;font-size: 2.2em;font-weight: 800;
+ display: inline-block;padding: 0.9375em 2.1875em;letter-spacing: 1px;border-radius: 15px;margin-bottom: 40px;
+transition: 0.7s ease;}
+.main-btn:hover {background-color: #0a49f6;transform: scale(1.1)}
+.title{display: flex;justify-content: center;color: #3a6cf4;font-size: 2.2em;font-weight: 800;
+margin-bottom: 30px;}
+.content {display: flex;justify-content: center;flex-direction: row;
+flex-wrap: wrap;}
+.card {background-color: #fff;width: 21.25em;box-shadow: 0 5px 25px ;rgba(111/15%);border-radius: 10px;padding: 25px;
+margin: 30px;transition: 0.7s ease;}
+.card:hover {transform: scale(1.1);}
+.contact .icon{font-size: 4.5em}
+.contact .info{color: #000}
+.contact .info p {font-size: 2em;color: black}
+body {color: red;min-height: 200px;min-width: 200px;}
+.videos {background-image:url(image22.jpg);}
+.videos .content {margin-top: 30px;}
+.videos-card {background-color: #fff;border: 1px ;sold#fff;
+min-height: 14em;width: 23em;border-radius: 10px;margin: 20px ;transition: 0.7s ease;;}
+.videos-card:hover{transform: scale(1.1);}
+.videos-img{width: 100%;display: flex;gap: 20px; }
+.videos-card:hover.videos-img{opacity: 0.8}
+.hema{color: indigo;max-width: 600px;font-size: 1.5em;}
+.ezz{color: red;font-size: 1.3em}
+.cmd{color: forestgreen;font-size: 1.3em}
+.rm{text-align: center;font-size: x-large;color: aqua}
+.zf {color: forestgreen ;text-align: center;}
+#mn{color: green}
+.za {color: green}
+body {background-image: linear-gradient(to bottom,gold,#ffffff,blue,yellow,transparent);}
+
+
+ 
+
+
